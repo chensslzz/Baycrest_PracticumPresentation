@@ -1,0 +1,51 @@
+---
+format:
+  revealjs:
+    theme: default
+    logo: "rotmanlogo.png"
+    footer: Cognitive Profiles of People Living with Dementia
+    slide-number: true
+    transition: slide
+    preview-links: true
+    embed-resources: true
+    
+---
+
+::: {style="text-align: center;"}
+## Cognitive Profiles of People Living with Dementia
+
+\
+Hanlong Chen\
+Supervisor: Dr. Malcolm Binns
+
+Rotman Research Institute, Baycrest\
+University of Toronto\
+![](rotmanlogo.png){width="170"} ![](uoft1.png){width="170"}\
+January 16, 2024
+:::
+
+------------------------------------------------------------------------
+
+## Background
+
+-   Understanding cognitive profiles in dementia
+-   Current assessment methods
+-   Gaps in profile characterization
+
+## Setting
+
+-   Describe Data
+
+## Analysis
+
+-   PCA\
+
+## Output
+
+-   Plot
+
+## Next Steps
+
+-Other Analysis method
+
+## Thank you!
