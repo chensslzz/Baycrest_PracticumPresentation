@@ -8,7 +8,6 @@ format:
     transition: slide
     preview-links: true
     embed-resources: true
-    
 ---
 
 ::: {style="text-align: center;"}
